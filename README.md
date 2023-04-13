@@ -3,4 +3,4 @@
 
 ## 🔗 Links
 
-alodia-ecowaste.netlify.app
+https://alodia-ecowaste.netlify.app/
